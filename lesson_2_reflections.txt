@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+  Just opens a new repository for my work to be tracked later, and I need
+  it to make commits that will help me to keep track my work.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+  It is different in that it's considered as intermediate stage between both of
+  the repository and the working directory.
+  It's value is in it allow the repository to make to commits to separate files.
