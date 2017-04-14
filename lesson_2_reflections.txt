@@ -21,3 +21,7 @@ history organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
   It helped me alot to understand that I may lost my work if there is no branch.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+    A combined commit 
