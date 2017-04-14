@@ -22,3 +22,8 @@ What is the benefit of having a copy of the last known state of the remote
 
   So I know if one of my any changes happened in my GitHub repository and
   prevent pushing directly.
+
+How would you collaborate without using Git or GitHub?
+  What would be easier, and what would be harder?
+
+  I think now every thing will be harder without GitHub ...It's amazing.
