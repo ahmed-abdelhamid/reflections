@@ -7,3 +7,8 @@ What value do you think it offers?
   It is different in that it's considered as intermediate stage between both of
   the repository and the working directory.
   It's value is in it allow the repository to make to commits to separate files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+  Just by using git diff that will compare between staging area and working
+  directory and the add the changes to staging area the use git diff --staged
+  to compare between stageg area and the most recent commit.
